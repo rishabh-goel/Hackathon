@@ -1,0 +1,14 @@
+./ip_search_server  127.0.0.1
+./files.txt  127.0.0.1
+./databaseserver.c  127.0.0.1
+./abd  127.0.0.1
+./SleepAway.mp3  127.0.0.1
+./databaseserver  127.0.0.1
+./mainc2  127.0.0.1
+./mainC2.c  127.0.0.1
+./mainC.c  127.0.0.1
+./mainc  127.0.0.1
+./a.out  127.0.0.1
+./ip_search_server.c  127.0.0.1
+./dbclient  127.0.0.1
+./dbclient.c  127.0.0.1
